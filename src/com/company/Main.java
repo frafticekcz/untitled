@@ -19,6 +19,7 @@ public class Main {
         System.out.println(num+ " * " + num2 + " = " + (num*num2));
         System.out.println(num+ " / " + num2 + " = " + (num/num2));
 
+        System.out.println("");
 
     }
 
